@@ -8,3 +8,5 @@ But I'll be dammed if I take credit for what is not mine. The blog was created f
 [Creating a blog - FastAI](https://github.com/fastai/fastbook/blob/master/app_blog.ipynb)
 
 It explains it well enough for me to follow, which means that it explains it well enough for ANYONE to follow.
+
+I will also leave here for my own convenience the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
